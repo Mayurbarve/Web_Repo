@@ -33,11 +33,16 @@ Description: `Signature App` repository! This application allows users to create
 
 Technologies Used: HTML5 Canvas Documentation, CSS Tricks, JavaScript
 
-Features
-Draw Signatures: Use your mouse or touchscreen to draw a signature.
-Save Signatures: Save your signature as an image file.
-Clear Canvas: Easily clear the canvas to create a new signature.
-Responsive Design: Optimized for both desktop and mobile devices.
+How to Run:
+1. Navigate to the `Signature App` directory.
+2. you will find all over the Source Code.
+3. Result Directory Show the actal Output of the Projects
+
+Features:
+- Draw Signatures: Use your mouse or touchscreen to draw a signature.
+- Save Signatures: Save your signature as an image file.
+- Clear Canvas: Easily clear the canvas to create a new signature.
+- Responsive Design: Optimized for both desktop and mobile devices.
 
 ![SIgnatureAPP](https://github.com/Mayurbarve/Web_Repo/assets/136147003/bc12f952-5073-49d6-a3d5-1dcafaf708e8)
 
