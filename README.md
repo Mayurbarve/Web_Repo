@@ -4,7 +4,8 @@ Welcome to the Web Development Projects repository! This repository contains var
 
 #Table of Contents
 
-1. Tailwind Responsive Design 1 
+1. Tailwind Responsive Design 1
+2. Signature App
 
 
 
@@ -22,5 +23,27 @@ How to Run:
 Features:
 - Responsive design
 - Interactive project
-
+  
 ![WebView](https://github.com/Mayurbarve/Web_Repo/assets/136147003/54db20d5-2be7-4b8f-86ab-075cb467aabd)
+
+
+# Project 2: Signature App
+
+Description: `Signature App` repository! This application allows users to create and save digital signatures. It's built using HTML, CSS, and JavaScript.
+
+Technologies Used: HTML5 Canvas Documentation, CSS Tricks, JavaScript
+
+How to Run:
+1. Navigate to the `Signature App` directory.
+2. you will find all over the Source Code.
+3. Result Directory Show the actal Output of the Projects
+
+Features:
+- Draw Signatures: Use your mouse or touchscreen to draw a signature.
+- Save Signatures: Save your signature as an image file.
+- Clear Canvas: Easily clear the canvas to create a new signature.
+- Responsive Design: Optimized for both desktop and mobile devices.
+
+![SIgnatureAPP](https://github.com/Mayurbarve/Web_Repo/assets/136147003/bc12f952-5073-49d6-a3d5-1dcafaf708e8)
+
+
