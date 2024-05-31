@@ -6,6 +6,8 @@ Welcome to the Web Development Projects repository! This repository contains var
 
 1. Tailwind Responsive Design 1
 2. Signature App
+3. CountDown App Until 2025
+4. Image Resizer 
 
 
 
@@ -46,4 +48,18 @@ Features:
 
 ![SIgnatureAPP](https://github.com/Mayurbarve/Web_Repo/assets/136147003/bc12f952-5073-49d6-a3d5-1dcafaf708e8)
 
+# Project 3: Countdown App Until 2025
+
+Description: A simple web application that displays a `countdown timer` to the year `2025`. Built using HTML, CSS, and JavaScript.
+
+Technologies Used: HTML5 Canvas Documentation, CSS Tricks, JavaScript
+
+Features:
+Live Countdown: Real-time countdown to January 1, 2025.
+Responsive Design: Adapts to different screen sizes and devices.
+Minimalist UI: Clean and straightforward user interface.
+
+Demo
+Check out the live demo of the application here.
+![image](https://github.com/Mayurbarve/Web_Repo/assets/136147003/ea2d903d-cc74-4179-8f20-d0c9a0603e79)
 
