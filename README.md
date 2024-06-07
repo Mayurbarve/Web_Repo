@@ -7,7 +7,8 @@ Welcome to the Web Development Projects repository! This repository contains var
 1. Tailwind Responsive Design 1
 2. Signature App
 3. CountDown App Until 2025
-4. Image Resizer 
+4. Image Resizer
+5. Expense Tracker
 
 
 
@@ -63,3 +64,33 @@ Demo
 Check out the live demo of the application here.
 ![image](https://github.com/Mayurbarve/Web_Repo/assets/136147003/ea2d903d-cc74-4179-8f20-d0c9a0603e79)
 
+# Project 5: Expense Tracker 
+
+## Introduction
+The Simple Expense Tracker is a web-based application that allows users to manage their expenses effectively. The application is built using HTML, CSS, and JavaScript, providing a straightforward interface for tracking expenses and visualizing spending habits.
+
+## Features
+- Add new expenses with a description and amount.
+- View a list of all expenses.
+- Display the total amount of expenses.
+- Simple and intuitive user interface.
+
+## Technologies Used
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the web page.
+- **JavaScript**: For adding interactive functionality.
+
+## Project Structure
+The project directory is structured as follows:
+```
+simple-expense-tracker/
+├── index.html
+├── style.css
+└── script.js
+```
+
+- `index.html`: The main HTML file that contains the structure of the web page.
+- `style.css`: The CSS file that contains styles for the web page.
+- `script.js`: The JavaScript file that contains the logic for adding, deleting, and displaying expenses.
+
+![image](https://github.com/Mayurbarve/Web_Repo/assets/136147003/f7c29aa3-7bb1-4d67-9907-fe3204b0470d)
