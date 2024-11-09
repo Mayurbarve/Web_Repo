@@ -7998,5 +7998,29 @@
         "email": "anorthamrr@tmall.com",
         "gender": "Female",
         "job_title": "Compensation Analyst"
+    },
+    {
+        "first_name": "Mayur",
+        "last_name": "Dudhbarve",
+        "email": "mayurbarve04@gmail.com",
+        "gender": "Male",
+        "job_title": "Software Dev",
+        "id": 1001
+    },
+    {
+        "first_name": "Jayant",
+        "last_name": "Bokade",
+        "email": "jayantbokade@gmail.com",
+        "gender": "Male",
+        "job_title": "Full stack developer",
+        "id": 1002
+    },
+    {
+        "first_name": "Chandrakant",
+        "last_name": "Mohadikar",
+        "email": "mohadikarchandu@gmail.com",
+        "gender": "Male",
+        "job_title": "Product Engineer",
+        "id": 1003
     }
 ]
