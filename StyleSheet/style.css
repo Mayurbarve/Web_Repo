@@ -1,0 +1,27 @@
+.head{
+    color: crimson; 
+    background-color: ghostwhite;
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.text-h{
+    text-decoration: line-through;
+}
+.text-p2{
+    line-height: 30px;
+    text-align: center;
+}
+
+.sample{
+    font-weight: 500;
+    font-size: medium;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.sample1{
+    text-transform: capitalize;
+}
